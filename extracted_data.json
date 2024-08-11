@@ -1,536 +1,541 @@
 [
     {
-        "name": "M1, the Crab Nebula. Credit: Dieter Retzl / CCDGuide.com",
+        "name": "M1, the Crab Nebula.",
         "coordinates": "RA 05h 34.5m, dec. +22º 01’",
         "magnitude": "Mag. +8.4"
     },
     {
-        "name": "M2, imaged by Ron Brecher. Credit: Ron Brecher",
+        "name": "M2",
         "coordinates": "RA 21h 33.5m, dec. –00º 49’",
         "magnitude": "Mag. +6.5"
     },
     {
-        "name": "M3 in Canes Venatici. Credit: Manfred Wasshuber / CCDGuide.com",
+        "name": "M3 in Canes Venatici.",
         "coordinates": "RA 13h 42.2m, dec. +28º 23’",
         "magnitude": "Mag. +6.2"
     },
     {
-        "name": "M4. Credit: CEDIC Team, Herbert Walter / CCDGuide.com",
+        "name": "M4",
         "coordinates": "RA 16h 23.6m, dec. –26º 32’",
         "magnitude": "Mag. +5.6 "
     },
     {
-        "name": "M5. Manfred Wasshuber / CCD Guide.com",
+        "name": "M5",
         "coordinates": "RA 15h 18.6m, dec. +02º 05’",
         "magnitude": "Mag. +5.3"
     },
     {
-        "name": "M6. Credit: Bernhard Hubl / CCDGuide.com",
+        "name": "M6",
         "coordinates": "RA 17h 40.1m, dec. –32º 13’",
         "magnitude": "Mag. +5.3"
     },
     {
-        "name": "M7, imaged by Luis Fernando Parmegiani.",
+        "name": "M7",
         "coordinates": "RA 17h 53.9m, dec. –34º 49’",
         "magnitude": "Mag. +4.1 "
     },
     {
-        "name": "M8, imaged by Ronald Piacenti Junior.",
+        "name": "M8",
         "coordinates": "RA 18h 03.8m, dec. –24º 23’",
         "magnitude": "Mag. +6.0"
     },
     {
-        "name": "M9. Credit: Michael Breite, Stefan Heutz, Bernhard Hubl, Wolfgang Ries / CCDGuide.com",
+        "name": "M9",
         "coordinates": "RA 17h 19.2m, dec. –18º 31’",
         "magnitude": "Mag. +7.7"
     },
     {
-        "name": "M10, by Günter Kerschhuber. Credit: Günter Kerschhuber / CCDGuide.com",
+        "name": "M10",
         "coordinates": "RA 16h 57.1m, dec. –04º 06’",
         "magnitude": "Mag. +6.6"
     },
     {
-        "name": "M11. Credit: Ron Brecher",
+        "name": "M11",
         "coordinates": "RA 18h 51.1m, dec. –06º 16’",
         "magnitude": "Mag. +6.3"
     },
     {
-        "name": "M12. Credit: Bernhard Hubl",
+        "name": "M12",
         "coordinates": "RA 16h 47.2m, dec. –01º 57’",
         "magnitude": "Mag. +6.7"
     },
     {
-        "name": "M13 by Alvaro Ibañz Perez.",
+        "name": "M13",
         "coordinates": "RA 16h 41.7m, dec. +36º 28’",
         "magnitude": "Mag. +5.8"
     },
     {
-        "name": "M14. Credit: Michael Breite, Stefan Heutz, Wolfgang Ries / CCDGuide.com",
+        "name": "M14",
         "coordinates": "RA 17h 37.6m, dec. –03º 15’",
         "magnitude": "Mag. +7.6"
     },
     {
-        "name": "M15 by Mark Griffith.",
+        "name": "M15",
         "coordinates": "RA 21h 30.0m; dec. +12º 10’",
         "magnitude": "Mag. +6.2"
     },
     {
-        "name": "M16 by Mark Griffith",
+        "name": "M16",
         "coordinates": "RA 18h 18.8m, dec. –13º 47’",
         "magnitude": "Mag. +6.4"
     },
     {
-        "name": "The Omega Nebula Tom Bishton, Gold Coast Hinterland, Australia. Equipment: Canon EOS 600D DSLR camera, Black Diamond ED120 refractor, Sky-Watcher AZ EQ6 mount.",
+        "name": "M17, The Omega Nebula",
         "coordinates": "RA 18h 20.8m, dec. –16º 11’",
         "magnitude": "Mag. +7.0"
     },
     {
-        "name": "M18. Credit: Michael Breite, Stefan Heutz, Wolfgang Ries / CCDGuide.com",
+        "name": "M18",
         "coordinates": "RA 18h 19.9m, dec. –17º 08’",
         "magnitude": "Mag. +7.5"
     },
     {
-        "name": "M19. Credit: Michael Breite, Stefan Heutz, Wolfgang Ries / CCDGuide.com",
+        "name": "M19",
         "coordinates": "RA 17h 02.6m, dec. –26º 16’",
         "magnitude": "Mag. +6.8"
     },
     {
-        "name": "The Triffid Nebula Chris Platkiw, iTelescope Siding Springs Observatory, Australia. Equipment: SBIG ST-2000XCM camera, Takahashi SKY-90 refractor.",
+        "name": "M20, The Triffid Nebula",
         "coordinates": "RA 18h 02.6m, dec. –23º 02’",
         "magnitude": "Mag. +9.0"
     },
     {
-        "name": "M21. Credit: Michael Breite, Stefan Heutz, Wolfgang Ries / CCDGuide.com",
+        "name": "M21",
         "coordinates": "RA 18h 04.6m, dec. –22º 30’",
         "magnitude": "Mag. +6.5"
     },
     {
-        "name": "M22 - Globular Cluster by Ronald Piacenti Jr",
+        "name": "M22 Great Sagittarius Globular Cluster",
         "coordinates": "RA 18h 36.4m, dec. –23º 54’",
         "magnitude": "Mag. +5.1"
     },
     {
-        "name": "M23. Credit: Bachleitner Hannes",
+        "name": "M23",
         "coordinates": "RA 17h 56.8m, dec. –19º 01’",
         "magnitude": "Mag. +6.9"
     },
     {
-        "name": "M24 by Christian vd Berge",
+        "name": "M24",
         "coordinates": "RA 18h 16.9m, dec. –18º 29’",
         "magnitude": "Mag. +4.6"
     },
     {
-        "name": "M25. Credit: Michael Breite, Stefan Heutz, Wolfgang Ries / CCDGuide.com",
+        "name": "M25",
         "coordinates": "RA 18h 31.6m, dec. –19º 15’",
         "magnitude": "Mag. +6.5"
     },
     {
-        "name": "M26. Credit: Michael Breite, Stefan Heutz, Wolfgang Ries / CCDGuide.com",
+        "name": "M26",
         "coordinates": "RA 18h 45.2m, dec. –09º 24’",
         "magnitude": "Mag. +8.0"
     },
     {
-        "name": "M27 by Jaroslav Vlcek",
+        "name": "M27",
         "coordinates": "RA 19h 59.6m, dec. +22º 43’",
         "magnitude": "Mag. +7.4"
     },
     {
-        "name": "M28. Credit: Michael Breite, Stefan Heutz, Wolfgang Ries / CCDGuide.com",
+        "name": "M28",
         "coordinates": "RA 18h 24.5m, dec. –24º 52’",
         "magnitude": "Mag. +6.8"
     },
     {
-        "name": "M29 by Bill McSorley",
+        "name": "M29",
         "coordinates": "RA 20h 23.9m, dec. +38º 32’",
         "magnitude": "Mag. +7.1"
     },
     {
-        "name": "M30. Credit: Daniel Verschatse.",
+        "name": "M30",
         "coordinates": "RA 21h 40.4m, dec. –23º 11’",
         "magnitude": "Mag. +7.2"
     },
     {
-        "name": "The Andromeda Galaxy by Mariusz Szymaszek.",
+        "name": "M31, Andromeda galaxy",
         "coordinates": "RA 00h 42.7m, dec. +41º 16’",
         "magnitude": "Mag. +3.4"
     },
     {
-        "name": "M33 - Triangulum Galaxy by David Slack.",
+        "name": "M32",
+        "coordinates": "RA 00h 42.7m, dec. +40º 52’",
+        "magnitude": "Mag. +8.1"
+    },
+    {
+        "name": "M33 Triangulum Galaxy",
         "coordinates": "RA 01h 33.9m, dec. +30º 39’",
         "magnitude": "Mag. +5.7"
     },
     {
-        "name": "M34 by Jaspal Chadha",
+        "name": "M34",
         "coordinates": "RA 02h 42.0m, dec. +42º 47’",
         "magnitude": "Mag. +5.5"
     },
     {
-        "name": "M35. Credit: Manfred Wasshuber.",
+        "name": "M35",
         "coordinates": "RA 06h 08.9m, dec. +24º 20’",
         "magnitude": "Mag. +5.3"
     },
     {
-        "name": "Open Cluster M36 in the constellation Auriga by Ron Larter",
+        "name": "M36 Pinwheel Cluster",
         "coordinates": "RA 05h 36.1m, dec. +34º 08’",
         "magnitude": "Mag. +6.3"
     },
     {
-        "name": "M38 by Bradley Swift",
+        "name": "M38",
         "coordinates": "RA 05h 28.4m, dec. +35º 50’",
         "magnitude": "Mag. +7.4"
     },
     {
-        "name": "M39 by Tom Howard",
+        "name": "M39",
         "coordinates": "RA 21h 32.2m, dec. +48º 26’",
         "magnitude": "Mag. +4.6"
     },
     {
-        "name": "M40. Credit: Harald Strauß / CCDGuide.com",
+        "name": "M40",
         "coordinates": "RA 12h 22.4m, dec. +58º 05’",
         "magnitude": "Mag. +8.4"
     },
     {
-        "name": "M41. Credit: Harald Strauß / CCDGuide.com",
+        "name": "M41",
         "coordinates": "RA 03h 47.0m, dec. +24º 07’",
         "magnitude": "Mag. +1.6"
     },
     {
-        "name": "The Orion Nebula Tom Harbin, Essex, UK. Equipment: Canon Rebel T5i DSLR camera, Celestron NexStar 127mm Maksutov, Alt-Az GoTo mount.",
+        "name": "M42 Orion Nebula",
         "coordinates": "RA 03h 47.0m, dec. +24º 07’",
         "magnitude": "Mag. +1.6"
     },
     {
-        "name": "M43 De Mairan's nebula, by Mark Griffith.",
+        "name": "M43 De Mairan's nebula",
         "coordinates": "RA 03h 47.0m, dec. +24º 07’",
         "magnitude": "Mag. +1.6"
     },
     {
-        "name": "M44 - The Beehive Cluster by Bill McSorely",
+        "name": "M44 The Beehive Cluster",
         "coordinates": "RA 03h 47.0m, dec. +24º 07’",
         "magnitude": "Mag. +1.6"
     },
     {
-        "name": "The Pleiades, by Raoul van Eijndhoven",
+        "name": "M45 The Pleiades",
         "coordinates": "RA 03h 47.0m, dec. +24º 07’",
         "magnitude": "Mag. +1.6"
     },
     {
-        "name": "M46 by Kfir Simon",
+        "name": "M46",
         "coordinates": "RA 07h 41.8m, dec. –14º 49’",
         "magnitude": "Mag. +6.0"
     },
     {
-        "name": "M47 by Dan Crowson",
+        "name": "M47",
         "coordinates": "RA 07h 36.6m, dec. –14º 30’",
         "magnitude": "Mag. +5.2"
     },
     {
-        "name": "M48. Credit: Michael Breite, Stefan Heutz, Wolfgang Ries.",
+        "name": "M48",
         "coordinates": "RA 08h 13.8m, dec. –05º 48’",
         "magnitude": "Mag. +5.5"
     },
     {
-        "name": "M49. Credit: Michael Breite, Stefan Heutz, Wolfgang Ries.",
+        "name": "M49",
         "coordinates": "RA 12h 29.8m, dec. +08º 00’",
         "magnitude": "Mag. +8.4"
     },
     {
-        "name": "M50. Credit: Michael Breite, Stefan Heutz, Wolfgang Ries.",
+        "name": "M50",
         "coordinates": "RA 07h 03.2m, dec. –08º 20’",
         "magnitude": "Mag. +6.3"
     },
     {
-        "name": "M51 - The Whirlpool Galaxy by Duan Yusef",
+        "name": "M51 The Whirlpool Galaxy",
         "coordinates": "RA 13h 29.9m, dec. +47º 12’",
         "magnitude": "Mag. +8.4 "
     },
     {
-        "name": "M52. Credit: Harald Strauß",
+        "name": "M52",
         "coordinates": "RA 13h 12.9m, dec. +18º 10’",
         "magnitude": "Mag. +7.6"
     },
     {
-        "name": "M53 Globular Cluster by Mark Griffith",
+        "name": "M53 Globular Cluster",
         "coordinates": "RA 13h 12.9m, dec. +18º 10’",
         "magnitude": "Mag. +7.6"
     },
     {
-        "name": "M54. Credit: ESA/Hubble & NASA",
+        "name": "M54",
         "coordinates": "RA 18h 55.1m, dec. –30º 29’",
         "magnitude": "Mag. +7.6"
     },
     {
-        "name": "M55. Credit: Bernhard Hubl / CCDGuide.com",
+        "name": "M55",
         "coordinates": "RA 19h 40.0m, dec. –30º 58’",
         "magnitude": "Mag. +6.3"
     },
     {
-        "name": "M56 by Ron Brecher",
+        "name": "M56",
         "coordinates": "RA 19h 16.6m, dec. +30º 11’",
         "magnitude": "Mag. +8.3"
     },
     {
-        "name": "M57 by André van der Hoeven",
+        "name": "M57",
         "coordinates": "RA 18h 53.6m, dec. +33º 02’",
         "magnitude": "Mag. +8.8"
     },
     {
-        "name": "M58. Credit: Harald Strauß / CCDGuide.com",
+        "name": "M58",
         "coordinates": "RA 12h 37.7m, dec. +11º 49’",
         "magnitude": "Mag +9.7"
     },
     {
-        "name": "M59. Credit: Michael Breite, Stefan Heutz, Wolfgang Ries / CCDGuide.com",
+        "name": "M59",
         "coordinates": "RA 12h 42.0m, dec. +11º 39’",
         "magnitude": "Mag. +9.6"
     },
     {
-        "name": "M60. Credit: Harald Strauß",
+        "name": "M60",
         "coordinates": "RA 12h 43.7m, dec. +11º 33’",
         "magnitude": "Mag. +8.8"
     },
     {
-        "name": "M61. Credit: Michael Breite, Stefan Heutz, Wolfgang Ries / CCDGuide.com",
+        "name": "M61",
         "coordinates": "RA 12h 21.9m, dec. +04º 28’",
         "magnitude": "Mag. +9.7"
     },
     {
-        "name": "M62. Credit: Michael Breite, Stefan Heutz, Wolfgang Ries / CCDGuide.com",
+        "name": "M62",
         "coordinates": "RA 17h 01.2m, dec. –30º 07’",
         "magnitude": "Mag. +6.5"
     },
     {
-        "name": "M63 by Dan Crowson",
+        "name": "M63",
         "coordinates": "RA 13h 15.8m, dec. +42º 02’",
         "magnitude": "Mag. +8.6"
     },
     {
-        "name": "M64. Credit: Klauser Franz / CCDGuide.com",
+        "name": "M64",
         "coordinates": "RA 12h 56.7m, dec. +21º 41’",
         "magnitude": "Mag. +8.5"
     },
     {
-        "name": "M65. Credit: Klauser Franz / CCDGuide.com",
+        "name": "M65",
         "coordinates": "RA 11h 18.9m, dec. +13º 05’",
         "magnitude": "Mag. +9.3"
     },
     {
-        "name": "M66. Credit: Manfred Wasshuber / CCDGuide.com",
+        "name": "M66",
         "coordinates": "RA 11h 20.2m, dec. +12º 59’",
         "magnitude": "Mag. +8.9"
     },
     {
-        "name": "M67 - Open Cluster in Cancer by Bill McSorely",
+        "name": "M67 Open Cluster",
         "coordinates": "RA 08h 50.4m, dec. +11º 49’",
         "magnitude": "Mag. +6.1"
     },
     {
-        "name": "M68. Credit: Michael Breite, Stefan Heutz, Wolfgang Ries / CCDGuide.com",
+        "name": "M68",
         "coordinates": "RA 12h 39.5m, dec. –26º 45’",
         "magnitude": "Mag. +7.8"
     },
     {
-        "name": "M69. Credit: ESA/Hubble & NASA",
+        "name": "M69",
         "coordinates": "RA 18h 31.4m, dec. –32º 21’",
         "magnitude": "Mag. +7.6"
     },
     {
-        "name": "M70. Credit: ESA/Hubble & NASA",
+        "name": "M70",
         "coordinates": "RA 18h 43.2m, dec. –32º 18’",
         "magnitude": "Mag. +7.9"
     },
     {
-        "name": "M71 - Globular Cluster in Sagitta by Bill McSorley.",
+        "name": "M71 Globular Cluster in Sagitta",
         "coordinates": "RA 19h 53.8m, dec. +18º 47’",
         "magnitude": "Mag. +8.2"
     },
     {
-        "name": "M72 by Ron Brecher.",
+        "name": "M72",
         "coordinates": "RA 20h 53.5m, dec. –12º 32’",
         "magnitude": "Mag. +9.3"
     },
     {
-        "name": "M73. Credit: Michael Breite, Stefan Heutz, Wolfgang Ries / CCDGuide.com",
+        "name": "M73",
         "coordinates": "RA 20:58.9, dec. –12:38",
         "magnitude": "Mag 9.0"
     },
     {
-        "name": "M74. Credit: Franz Klauser / CCDGuide.com",
+        "name": "M74",
         "coordinates": "RA 01h 36.7m, dec. +15º 47’",
         "magnitude": "Mag. +9.4"
     },
     {
-        "name": "M75. Credit: Michael Breite, Stefan Heutz, Wolfgang Ries / CCDGuide.com",
+        "name": "M75",
         "coordinates": "RA 20h 06.1m, dec. –21º 55’",
         "magnitude": "Mag. +8.5"
     },
     {
-        "name": "LITTLE DUMBBELL M76 by Martin Bailey",
+        "name": "M76 Little Dumbbell",
         "coordinates": "RA 01h 42.4m, dec. +51º 34’",
         "magnitude": "Mag. +10.1"
     },
     {
-        "name": "M77. Credit: Günter Kerschhuber / CCDGuide.com",
+        "name": "M77",
         "coordinates": "RA 02h 42.7m, dec. –00º 01’",
         "magnitude": "Mag. +8.9"
     },
     {
-        "name": "M78 by Alvaro Ibañez Perez.",
+        "name": "M78",
         "coordinates": "RA 05h 46.7m, dec. +00º 03’",
         "magnitude": "Mag. +8.3"
     },
     {
-        "name": "M79. Credit: Harald Strauß",
+        "name": "M79",
         "coordinates": "RA 09h 55.6m, dec. +69º 04’",
         "magnitude": "Mag. +6.9"
     },
     {
-        "name": "M80. Credit: Daniel Verschatse / CCDGuide.com",
+        "name": "M80",
         "coordinates": "RA 09h 55.6m, dec. +69º 04’",
         "magnitude": "Mag. +6.9"
     },
     {
-        "name": "M81, by Frederic Vandewattyne.",
+        "name": "M81",
         "coordinates": "RA 09h 55.6m, dec. +69º 04’",
         "magnitude": "Mag. +6.9"
     },
     {
-        "name": "M82 Cigar Galaxy, by Mark Griffith.",
+        "name": "M82, Cigar Galaxy",
         "coordinates": "RA 09h 55.8m, dec. +69º 41’",
         "magnitude": "Mag. +8.4"
     },
     {
-        "name": "M83, Southern Pinwheel Galaxy by Rafael Compassi",
+        "name": "M83, Southern Pinwheel Galaxy",
         "coordinates": "RA 13h 37.0m, dec. –29º 52’",
         "magnitude": "Mag. +7.6"
     },
     {
-        "name": "M84. Credit: ESA/Hubble & NASA",
+        "name": "M84",
         "coordinates": "RA 12h 25.1m, dec. –12º 53’",
         "magnitude": "Mag. +9.1"
     },
     {
-        "name": "M85. Credit: Michael Breite, Stefan Heutz, Wolfgang Ries.",
+        "name": "M85",
         "coordinates": "RA 12h 25.4m, dec. +18º 11’",
         "magnitude": "Mag. +9.1"
     },
     {
-        "name": "M87. Credit: Bernhard Hubl",
+        "name": "M87",
         "coordinates": "RA 12h 30.8m, dec. +12º 24’",
         "magnitude": "Mag. +8.6"
     },
     {
-        "name": "M88 in the Virgo Cluster by John Tonks.",
+        "name": "M88",
         "coordinates": "RA 12h 32.0m, dec. +14º 25’",
         "magnitude": "Mag. +9.6"
     },
     {
-        "name": "M89. Credit: Michael Breite, Stefan Heutz, Wolfgang Ries / CCDGuide.com",
+        "name": "M89",
         "coordinates": "RA 12h 35.7m, dec. +12º 33’",
         "magnitude": "Mag. +9.8"
     },
     {
-        "name": "M90. Michael Breite, Stefan Heutz, Wolfgang Ries / CCDGuide.com",
+        "name": "M90",
         "coordinates": "RA 12h 36.8m, dec. +13º 10’",
         "magnitude": "Mag. +9.5"
     },
     {
-        "name": "M91. Credit: Michael Breite, Stefan Heutz, Wolfgang Ries / CCDGuide.com",
+        "name": "M91",
         "coordinates": "RA 12h 35.4m, dec. +14º 30’",
         "magnitude": "Mag. +10.2"
     },
     {
-        "name": "M92. Credit: Michael Karrer / CCDGuide.com",
+        "name": "M92",
         "coordinates": "RA 17h 17.1m, dec. +43º 08’",
         "magnitude": "Mag. +6.4"
     },
     {
-        "name": "M93 - LRGB by Dan Crowson",
+        "name": "M93",
         "coordinates": "RA 07:44.6, dec. –23:52",
         "magnitude": "Mag. + 6.0"
     },
     {
-        "name": "M94 Spiral Galaxy by Mark Griffith",
+        "name": "M94",
         "coordinates": "RA 12h 50.9m, dec. +41º 07’",
         "magnitude": "Mag. +8.2"
     },
     {
-        "name": "M95. Credit: Michael Breite, Stefan Heutz, Wolfgang Ries / CCDGuide.com",
+        "name": "M95",
         "coordinates": "RA 10h 44.0m, dec. +11º 42’",
         "magnitude": "Mag. +9.7"
     },
     {
-        "name": "M96. Credit: Michael Breite, Stefan Heutz, Wolfgang Ries / CCDGuide.com",
+        "name": "M96",
         "coordinates": "RA 10h 46.8m, dec. +11º 49’",
         "magnitude": "Mag. +9.2"
     },
     {
-        "name": "M97 Owl Nebula by Mark Griffith",
+        "name": "M97, Owl Nebula",
         "coordinates": "RA 11h 14.8m, dec. +55º 01’",
         "magnitude": "Mag. +9.9"
     },
     {
-        "name": "M98. Credit: Harald Strauß / CCDGuide.com",
+        "name": "M98",
         "coordinates": "RA 12h 13.8m, dec. +14º 54’",
         "magnitude": "Mag. +10.1"
     },
     {
-        "name": "M99 by Dan Crowson",
+        "name": "M99",
         "coordinates": "RA 12h 18.8m, dec. +14º 25’ ",
         "magnitude": "Mag. + 9.9"
     },
     {
-        "name": "M100 by Dan Crowson",
+        "name": "M100",
         "coordinates": "RA 12h 22.9m, dec. +15º 49’",
         "magnitude": "Mag. +9.3"
     },
     {
-        "name": "M101 - The Pinwheel Galaxy by Keith Bramley",
+        "name": "M101, The Pinwheel Galaxy",
         "coordinates": "RA 14h 03.2m, dec. +54º 21’",
         "magnitude": "Mag. +7.9"
     },
     {
-        "name": "M102. Credit: Michael Breite, Stefan Heutz, Wolfgang Ries / CCD Guide.com",
+        "name": "M102",
         "coordinates": "RA 15h 06.5m, dec. +55º 46’",
         "magnitude": "Mag. +9.9"
     },
     {
-        "name": "M103 - Open Cluster in Cassiopeia by Bill McSorley",
+        "name": "M103, Open Cluster in Cassiopeia",
         "coordinates": "RA 01h 33.2m, dec. +60º 42’",
         "magnitude": "Mag +7.4"
     },
     {
-        "name": "M104 The Sombrero Galaxy by Dan Crowson",
+        "name": "M104, The Sombrero Galaxy",
         "coordinates": "RA 12h 40.0m, dec. –11º 37’",
         "magnitude": "Mag. +8.0"
     },
     {
-        "name": "M105. Credit: Manfred Wasshuber / CCD Guide.com",
+        "name": "M105",
         "coordinates": "RA 10h 47.8m, dec. +12º 35’",
         "magnitude": "Mag. +9.3"
     },
     {
-        "name": "M106 Spiral Galaxy by Mark Griffith",
+        "name": "M106",
         "coordinates": "RA 12h 19.0m, dec. +47º 18’",
         "magnitude": "Mag. +8.4"
     },
     {
-        "name": "M107. Credit: Michael Breite, Stefan Heutz, Wolfgang Ries / CCD Guide.com",
+        "name": "M107",
         "coordinates": "RA 16h 32.5m, dec. –13º 03’",
         "magnitude": "Mag. +7.9"
     },
     {
-        "name": "M108. Credit: Michael Breite, Stefan Heutz, Wolfgang Ries / CCD Guide.com",
+        "name": "M108",
         "coordinates": "RA 11h 11.5m, dec. +55º 40’",
         "magnitude": "Mag. +10.0"
     },
     {
-        "name": "M109 Barred Spiral Galaxy by Mark Griffith",
+        "name": "M109, Barred Spiral Galaxy",
         "coordinates": "RA 11h 57.6m, dec. +53º 23’",
         "magnitude": "Mag. +9.8"
     },
     {
-        "name": "M110 by Dan Crowson",
+        "name": "M110",
         "coordinates": "RA 00h 40.4m, dec. +41º 41’",
         "magnitude": "Mag. +8.5"
     }

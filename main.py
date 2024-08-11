@@ -3,7 +3,7 @@ import json
 from bs4 import BeautifulSoup
 
 # Load the HTML file
-with open('your_html_file.html', 'r', encoding='utf-8') as file:
+with open('catalog.html', 'r', encoding='utf-8') as file:
     content = file.read()
 
 # Parse the HTML content
