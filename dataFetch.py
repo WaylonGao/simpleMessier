@@ -41,7 +41,7 @@ for entry in entries:
     data.append(entry_data)
 
 # Save the data to a JSON file
-with open('extracted_data.json', 'w', encoding='utf-8') as json_file:
+with open('extracted_data1.json', 'w', encoding='utf-8') as json_file:
     json.dump(data, json_file, indent=4, ensure_ascii=False)
 
 print("Data extracted and saved to 'extracted_data.json'")
